@@ -6,7 +6,7 @@
   🌍 Amante del código limpio, buenas prácticas y el aprendizaje continuo.
 </p>
 
----
+--- 
 
 ### 🛠️ Tecnologías y herramientas que uso:
 
